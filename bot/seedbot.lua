@@ -226,7 +226,7 @@ function create_config( )
     "Set",
     "Stats"
     },
-    sudo_users = {185264953,175636120},
+    sudo_users = {236563746,292394585},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -326,8 +326,7 @@ This command will send text to [group_id]
     help_text = [[
 Commands list :
 
-!kick [username|id]
-You can also do it by reply
+!kick [username|id]You can also do it by reply
 
 !ban [ username|id]
 You can also do it by reply
